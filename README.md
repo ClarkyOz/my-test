@@ -1,2 +1,2 @@
-# my-test
-My first GitHub - A Cloud Guru training course (AWS and GitHub for DevOps)
+# This is my first file 
+Hello Gurus! - A Cloud Guru training course (AWS and GitHub for DevOps)
